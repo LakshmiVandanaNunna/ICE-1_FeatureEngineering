@@ -1,0 +1,1 @@
+b'Sunday\n\n5 %\n\n89 \xc2\xb0 75 \xc2\xb0\n\nThunderstorms with a high of 89 \xc2\xb0F (31.7 \xc2\xb0C) and a 45% chance of precipitation. Winds N at 6 to 9 mph (9.7 to 14.5 kph).'

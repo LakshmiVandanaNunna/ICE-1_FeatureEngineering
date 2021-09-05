@@ -1,0 +1,1 @@
+b'WFAA would like to send you push notifications about the latest news and weather.\n\nNotifications can be turned off anytime in the browser settings.'
